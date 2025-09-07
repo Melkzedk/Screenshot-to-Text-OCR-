@@ -5,7 +5,7 @@ Captures the full screen, runs OCR (via pytesseract/Tesseract),
 prints the text, copies it to clipboard, and saves it to a .txt file.
 
 Usage:
-    python screenshot_to_text.py
+    python index.py
 """
 import os
 import sys
