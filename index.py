@@ -1,5 +1,4 @@
-"""
-Screenshot-to-Text (OCR) simple script.
+//Screenshot-to-Text (OCR) simple script.
 
 Captures the full screen, runs OCR (via pytesseract/Tesseract),
 prints the text, copies it to clipboard, and saves it to a .txt file.
@@ -7,7 +6,6 @@ prints the text, copies it to clipboard, and saves it to a .txt file.
 Usage:
     python screenshot_to_text.py
 """
-
 import os
 import sys
 import time
