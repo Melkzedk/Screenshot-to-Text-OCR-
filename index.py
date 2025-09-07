@@ -1,3 +1,4 @@
+"""
 Screenshot-to-Text (OCR) simple script.
 
 Captures the full screen, runs OCR (via pytesseract/Tesseract),
